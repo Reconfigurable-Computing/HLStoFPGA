@@ -26,5 +26,5 @@ hls+ vivado + vitis sdk -zcu104为例	1
 - 三、 Vitis部分	
     - 3.1 创建platform 工程	
     - 3.2 创建application工程	
-    - 3.3 编写测试程序	
+    - 3.3 编写测试程序(ps + sd卡读写测试)	
     - 3.4 Program FPGA	
